@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RecipeBackEnd.APIs.props" />
+</Project>
